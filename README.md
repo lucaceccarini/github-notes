@@ -15,6 +15,8 @@ Repositories of outliners and PIMs.
 * [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps)  
 Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
-
 * [Video Game Preservation](https://github.com/videogamepreservation)  
 An archive of commercial video game source code.
+
+* [rage8885/OpenSC2K](https://github.com/rage8885/OpenSC2K)  
+OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
