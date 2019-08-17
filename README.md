@@ -12,7 +12,7 @@ This is a list of Free Software network services and web applications which can 
 * [outliner](https://github.com/topics/outliner)  
 Repositories of outliners and PIMs.
 
-[unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps)  
+* [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps)  
 Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
 
